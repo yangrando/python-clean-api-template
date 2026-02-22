@@ -1,7 +1,7 @@
 # Python Clean API Template (FastAPI + Clean Architecture + AI Ready)
 
 ![CI](https://github.com/yangrando/python-clean-api-template/actions/workflows/python_ci.yml/badge.svg)
-![Coverage](https://img.shields.io/badge/coverage-82%25-brightgreen)
+![Coverage](https://img.shields.io/badge/coverage-91%25-brightgreen)
 
 A production-grade FastAPI backend template following Clean Architecture principles, including authentication, LLM integration, structured logging, testing, and Docker support.
 
